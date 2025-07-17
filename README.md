@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=¡Hola,_soy_Héctor!&animation=fadeIn&color=gradient&height=100" alt="¡Hola, soy Héctor!"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=¡Hola,%20soy%20Héctor!&fontSize=40&animation=twinkling" />
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/vbklqQl.png" alt="Banner profesional" width="100%" />
+</p>
+
 
 ### 👋 Soy **Héctor Macarrilla**, Desarrollador de Aplicaciones Multiplataforma
 
