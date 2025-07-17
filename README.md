@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/hectormac35/hectormac35/blob/main/d7440b5c-8747-47c5-9514-d9d7a62b6405.png?raw=true" alt="Banner de Héctor Macarrilla" width="100%" />
+  <img src="https://github.com/hectormac35/hectormac35/blob/main/imagen%20banner.png?raw=true" alt="Banner de Héctor Macarrilla" width="100%" />
 </p>
+
 
 
 
