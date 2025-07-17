@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/vbklqQl.png" alt="Banner profesional" width="100%" />
+  <img src="https://github.com/hectormac35/hectormac35/blob/main/2473c808-6c1d-495f-93b8-6a90cb26eaa3.png?raw=true" alt="Banner de Héctor Macarrilla" width="100%" />
 </p>
+
 
 
 ### 👋 Soy **Héctor Macarrilla**, Desarrollador de Aplicaciones Multiplataforma
