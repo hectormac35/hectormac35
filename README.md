@@ -51,3 +51,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hectormac35&color=brightgreen" alt="Profile views"/>
 </p>
+---
+
+<p align="center">
+  <img src="https://github.com/hectormac35/hectormac35/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
